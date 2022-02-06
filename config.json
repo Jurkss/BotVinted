@@ -1,0 +1,6 @@
+{
+    "token": "https://discord.com/api/oauth2/authorize?client_id=940011517158494240&permissions=0&scope=bot%20applications.commands",
+    "adminIDs": ["567103873542782987"],
+    "guildID": "774688001501560862"
+
+}
