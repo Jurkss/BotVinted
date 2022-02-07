@@ -12,7 +12,7 @@ const client = new Discord.Client({
 const synchronizeSlashCommands = require('discord-sync-commands');
 synchronizeSlashCommands(client, [
 {
-        name: 'botinstall',
+        name: 'abonner',
         description: 'Abonnez-vous à une URL de recherche',
         options: [{
                 name: 'url',
