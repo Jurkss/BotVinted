@@ -1,17 +1,17 @@
 {
   "subscriptions": [
     {
-      "id": "mvg4lx",
-      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
-      "channelID": "938208144180535320"
+      "id": "Lacoste",
+      "url": "https://www.vinted.fr/vetements?currency=EUR&search_id=4534046888&order=newest_first&size_id[]=208&size_id[]=209&brand_id[]=304&price_to=20",
+      "channelID": "939903785222942720"
     },
     {
-      "id": "lpt5mv",
-      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
-      "channelID": "933120907973644389"
+      "id": "Arte",
+      "url": "https://www.vinted.fr/vetements?search_id=4534048901&brand_id[]=271932&price_to=30&currency=EUR&size_id[]=209&size_id[]=208",
+      "channelID": "939924737545601124"
     }
   ],
-  "last_item_ts_mvg4lx": 1643992809000,
+  "last_item_ts_Lacoste": 1643992809000,
   "is_first_sync": false,
-  "last_item_ts_lpt5mv": 1643992809000
+  "last_item_ts_Arte": 1643992809000
 }
